@@ -9,9 +9,9 @@ Running Nmap as root or specifying the -sS flag (Stealth Scan) will perform a Ha
 
 Conclusion:
 
-TCP 3-Way Handshake:
+TCP 3-Way Handshake (non-privileged user:
 
-`nmap 192.168.22.129` (As a non-privileged user)
+`nmap 192.168.22.129`
 
 Half-Open Scan (needs to be run as root):
 
