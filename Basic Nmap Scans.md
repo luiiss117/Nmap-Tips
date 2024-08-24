@@ -11,7 +11,7 @@ SYN-ACK (Synchronize-Acknowledge): After receiving the SYN segment, the server r
 
 ACK (Acknowledge): Finally the client acknowledges the server's response by sending a last TCP segment with the ACK flag set. The acknowledgment number is set to one more than the ISN.
 
-After this process, the TCP 3-Way Handshake is completed and the devices can axchange information in both ways.
+After this process, the TCP 3-Way Handshake is completed and the devices can exchange information in both ways.
 
 ![[handshake-1 1.png]]
 
