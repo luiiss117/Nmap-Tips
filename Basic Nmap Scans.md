@@ -15,5 +15,5 @@ TCP 3-Way Handshake:
 
 Half-Open Scan (needs to be run as root):
 
-nmap -sS 192.168.22.129
+`nmap -sS 192.168.22.129`
 *I highly recommend using Wireshark when you run an Nmap scan, especially if you are a beginner.*
